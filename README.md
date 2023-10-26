@@ -5,6 +5,8 @@
 
 ![nicolas-sou GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-sou&show_icons=true&theme=dark&bg_color=00000000)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-sou&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technology I study:
 <div style="display:inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,3 +20,4 @@
 </div>
 </br>
 I'm passionate about technology!! I like to learn and challenge myself to new things.😉
+
