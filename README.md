@@ -1,6 +1,6 @@
 ### Hello, I'm Nicolas Sousa 19 years old, I live in São Paulo 👋.
 ### Contact methods:
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nicollassouza141@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollas_sou/) 
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nicollassouza141@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-dev-frontend/)
 
 ![nicolas-sou GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-sou&show_icons=true&theme=dark&bg_color=00000000)
